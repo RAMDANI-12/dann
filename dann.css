@@ -1,0 +1,74 @@
+.circle>.gambar{
+    border: 5px solid black ;
+    width: 15%;
+    border-radius: 25px;
+}
+div .abc{
+    border: 5px solid black ;
+    font-weight: 700;
+    margin: 50%;
+    background-color:greenyellow;
+}
+body{
+    background-image: url(foto.jpg)
+}
+div .mer{
+    margin-bottom: 2%;
+    margin-left: 25%;
+    font-weight: 700;
+    background-color:royalblue;width: 60px;
+    border: 5px solid black ;
+}
+div .ram{
+    font-weight: 700;
+    margin-bottom: 2%;
+    margin-left: 25%;
+    border: 5px solid black ;
+    background-color:powderblue;
+    font-family: 'Roboto Mono', monospace;;
+}
+div .rom{
+    border: 5px solid black ;
+    background-color: red;width: 200px;
+}
+div .jji{
+    border: 5px solid black ;
+    background-color:white;width: 200px; ;
+}
+div .lol{
+    border: 5px solid black ;
+    background-color: red;width: 200px;
+}
+div .tod{ border: 5px solid black ;
+    background-color:white;width: 300px;
+}
+div .nol{
+    
+    background-color:greenyellow;
+    border: 5px solid black ;
+    font-weight: 700;
+}
+div .tol{
+    background-color: tomato;width: 500px;
+    border: 5px solid black
+}
+div .gol{
+    background-color: tomato;width: 400px;
+    border: 5px solid black
+}
+div .mee{background-color: tomato;width: 500px;
+    border: 5px solid black
+}
+div .you{
+    background-color: tomato;width: 400px;
+    border: 5px solid black  
+}
+div .him{
+    background-color: tomato;width: 300px;
+    border: 5px solid black
+}
+div .rel{
+    border: 5px solid black ;
+    font-weight: 700;
+    background-color: greenyellow;
+}
